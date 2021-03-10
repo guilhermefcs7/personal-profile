@@ -2,6 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background: url(background.jpg) no-repeat;
+	background-attachment: fixed;
 	background-size: cover; 
 }
 
@@ -38,6 +39,7 @@ body{
 	font-size: 15px;
 	letter-spacing: 3px;
 	font-weight: 100;
+	line-height: 30px;
 	text-align: justify;
 }
 
