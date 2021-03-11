@@ -18,9 +18,9 @@ body{
 }
 
 .box-img{
-	border-radius: 50%;
-	width: 300px;
-	height: 320px; 
+	border-radius: 200px;
+	width: 400px;
+	height: 420px; 
 }
 
 .box h1{
